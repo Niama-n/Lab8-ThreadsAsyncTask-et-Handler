@@ -1,6 +1,7 @@
 # LAB 8 - Threads, AsyncTask et Handler
 
 Cette application Android démontre l'utilisation des threads et des tâches asynchrones (`AsyncTask`) pour effectuer des opérations en arrière-plan sans bloquer l'interface utilisateur (UI).
+
 Ce travail pratique apprend à exécuter un traitement long (ex. calcul lourd, chargement d’image) sans bloquer l’interface. Le lab construit une application Android avec des boutons : un bouton lance un traitement long, un autre affiche un Toast immédiatement. Si l’UI reste fluide, la programmation asynchrone est correcte.
 
 ## 🎬Vidéo de démonstration
